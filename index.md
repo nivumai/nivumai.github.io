@@ -38,5 +38,3 @@ Nivum AI provides a unified intelligence layer across your entire communication 
 - **Rich Media Analysis:** Voice recordings, documentation, and visual assets
 
 ---
-
-© 2025 Nivum AI. All rights reserved.
