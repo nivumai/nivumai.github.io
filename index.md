@@ -1,38 +1,42 @@
 ---
 layout: default
-title: Home
+title: Nivum AI | Enterprise Conversation Intelligence
 ---
 
 # Nivum AI
 
-**Empowering Customer Engagement with Intelligent Conversation Analysis.**
+### Transforming Conversations into Strategic Intelligence
 
-Nivum AI is a unified platform designed to transform your organization's conversations into actionable intelligence. By integrating with the tools your team already uses, Nivum AI provides real-time insights that help you understand your customers better, mitigate risks, and automate complex workflows.
-
-## Value-Driven Capabilities
-
-### 🔍 Deep Signal Extraction
-Understand the "why" behind every interaction. Nivum AI automatically identifies sentiment, emotion, intent, and topics across all your communication channels, ensuring no critical signal is missed.
-
-### ⚡ Automated Smart Actions
-Turn insights into impact instantly. Our platform can trigger automated workflows across 30+ integrations—from creating engineering tasks to escalating urgent support requests—based on the signals detected in real-time.
-
-### 🛡️ Real-Time Risk & Policy Management
-Protect your community and organization. Nivum AI classifies risks such as prompt injections or malicious content and allows you to tune AI outputs with custom organizational rules and human-in-the-loop overrides.
-
-### 📊 Unified Intelligence Dashboards
-Stop switching tabs. View a single, consolidated dashboard of your customer health, product trends, and support performance across Slack, Discord, WhatsApp, email, and more.
-
-### 🚀 Proactive Issue Detection
-Stay ahead of the curve. Our 7-stage aggregation pipeline detects sentiment spikes, unresolved issue clusters, and documentation gaps, alerting your team before they become systemic problems.
-
-## Supported Channels
-Nivum AI seamlessly ingests and analyzes data from:
-- **Team Chat:** Slack, Discord, Google Chat
-- **Support & Community:** Discourse, HackerNews, Email
-- **Direct Messaging:** WhatsApp
-- **Rich Media:** Voice recordings, images, and documents
+Nivum AI is a premier enterprise platform designed to convert complex organizational communication into actionable business intelligence. We empower teams to understand customer sentiment, automate critical workflows, and proactively manage risks across all interaction channels.
 
 ---
 
-[View on GitHub](https://github.com/nivumai/nivumai.github.io)
+## Solutions for the Modern Enterprise
+
+### 🔍 Intelligence & Insights
+Unlock the hidden value in every conversation. Our advanced engine automatically identifies sentiment, emotion, intent, and complex topics, ensuring your leadership has a clear view of customer needs and market trends.
+
+### ⚡ Operational Excellence
+Drive impact through automation. Nivum AI triggers sophisticated workflows across your existing enterprise stack—from engineering task creation to urgent support escalations—based on real-time signal detection.
+
+### 🛡️ Risk & Governance
+Maintain the highest standards of communication. Our platform provides robust risk classification and policy enforcement, allowing your organization to apply custom guardrails and human-in-the-loop oversight to all AI-driven outputs.
+
+### 📊 Strategic Dashboards
+Consolidate your global communication landscape. Access unified analytics that provide a single source of truth for customer health, product performance, and support efficiency across all platforms.
+
+### 🚀 Proactive Issue Management
+Anticipate challenges before they impact your business. Our sophisticated aggregation pipeline identifies emerging trends, unresolved issue clusters, and knowledge gaps, alerting your team to take action early.
+
+---
+
+## Integrated Channel Support
+Nivum AI provides a unified intelligence layer across your entire communication ecosystem:
+- **Collaboration Suites:** Slack, Discord, Google Chat
+- **Community & Support Forums:** Discourse, HackerNews, Email
+- **Global Messaging:** WhatsApp
+- **Rich Media Analysis:** Voice recordings, documentation, and visual assets
+
+---
+
+© 2025 Nivum AI. All rights reserved.

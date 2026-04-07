@@ -1,9 +1,7 @@
 title: Nivum AI
-description: Full-stack AI-powered customer engagement and conversation analysis platform.
+description: Enterprise-grade conversation intelligence and automated workflow platform.
 theme: jekyll-theme-minimal
 url: "https://nivum.ai"
 baseurl: ""
 platform_name: Nivum AI
-github:
-  is_project_page: false
-  repository_url: https://github.com/nivumai/nivumai.github.io
+# Removing GitHub-specific branding from configuration
