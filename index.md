@@ -35,4 +35,4 @@ Nivum AI seamlessly ingests and analyzes data from:
 
 ---
 
-[View on GitHub](https://github.com/nivumai/nivumai)
+[View on GitHub](https://github.com/nivumai/nivumai.github.io)
